@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Kevin's brisket",
+        "ingredients": [
+            "Beef brisket",
+            "holy cow seasoning",
+            "holy gospel seasoning"
+        ],
+        "instructions": "Smoke the brisket until it gets to 203 degrees, then eat it."
+    },
+    {
+        "title": "Kevin's breakfast",
+        "ingredients": [
+            "Sausage",
+            "milk",
+            "flour",
+            "biskets",
+            "eggs"
+        ],
+        "instructions": "Invite Mike over and then cook for him, too."
+    },
+    {
+        "title": "Salsa",
+        "ingredients": [
+            "Tomatoes",
+            "onions",
+            "cilantro",
+            "Peppers",
+            "salt"
+        ],
+        "instructions": "Mix it all together and have party."
+    }
+]
